@@ -1,4 +1,4 @@
-# CTF : Mise à niveau système
+# CTF : Mise à niveau système - Soren et Nadhir
 
 Lancer le script `construction.sh` avec sudo.
 
